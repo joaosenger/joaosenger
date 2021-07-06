@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Software development
 - 🌱 I’m currently learning ... Full Stack Development using Javascript
 - 💞️ I’m looking to collaborate on ... Websites and Mobile Apps to social projects
-- 📫 How to reach me ...
+- 📫 How to reach me ... linkedin.com/in/joaosenger | facebook.com/joaoapsenger | wa.me/5515981206692 | joaontn@gmail.com
 
 <!---
 joaosenger/joaosenger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
