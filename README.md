@@ -3,7 +3,7 @@
 🌱 Estudando desenvolvimento Web e Mobile com Javascript <br/>
 
 <div>
-<a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaosenger&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"</a>
+<a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaosenger&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"></a>
 <a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosenger&layout=compact&langs_count=7&theme=dracula"></a>
 </div>
 </a>
