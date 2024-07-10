@@ -8,7 +8,7 @@ Ao longo da minha carreira, trabalhei com diversas tecnologias: Linux, Docker, M
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,postgres,aws,docker,linux,html,css,javascript,bootstrap)](https://skillicons.dev)
   
-<a href="https://github.com/joaosenger">
+
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaosenger&show_icons=true&theme=dark&include_all_commits=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosenger&layout=compact&langs_count=7&theme=dark"/>
-</a>
+
