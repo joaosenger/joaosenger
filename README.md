@@ -1,10 +1,7 @@
-## Hi there 👋
+Graduated in Systems Analysis and Development and postgraduate in Cloud Computing Projects. Certified AWS Cloud Practitioner, English level B2.
 
-Formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Projetos de Cloud Computing. Certificado AWS Cloud Practitioner. 
+I work as a software developer, using Java and Python. I also have experience in architecting and implementing solutions using Amazon Web Services (AWS) services and implementing CI/CD pipelines with GitHub Actions.
 
-Atuo como desenvolvedor de software, utilizando as linguagens Python (Django/Django Rest Framework) e JavaScript (Node.js). Também possuo experiência em arquitetura e implementação de soluções utilizando os serviços da Amazon Web Services (AWS).
+Throughout my career, I have worked with several technologies: Linux, Docker, MySQL, Terraform and several AWS services, mainly focused on serverless development, such as AWS Lambda, Amazon API Gateway, ECS (Fargate), DynamoDB, Amazon EventBridge, Amazon S3 and IoT Core. In addition, I have experience with computing services, such as EC2, RDS (MySQL, PostgreSQL), and with CI/CD services, such as AWS CodePipeline and AWS CodeBuild.
 
-Ao longo da minha carreira, trabalhei com diversas tecnologias: Linux, Docker, MySQL, Terraform e vários serviços da AWS, principalmente focados em desenvolvimento serverless, como AWS Lambda, Amazon API Gateway, ECS (Fargate), DynamoDB, Amazon EventBridge, Amazon S3 e IoT Core. Além disso, tenho experiência com serviços de computação, como EC2, RDS (MySQL, PostgreSQL), e com serviços de CI/CD, como AWS CodePipeline e AWS CodeBuild.
-
-[![My Skills](https://skillicons.dev/icons?i=python,django,nodejs,postgres,aws,docker,linux)](https://skillicons.dev)
-  
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,postgresql,aws,github,linux,docker&theme=light)](https://skillicons.dev)
